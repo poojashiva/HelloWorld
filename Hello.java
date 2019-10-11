@@ -10,8 +10,9 @@ public class Hello
           {
                for(int j=0;j<6;j++)
                     {
-   System.out.println("*");
+   System.out.print("*");
                     }
+               System.out.println();
           }
    }
 }
