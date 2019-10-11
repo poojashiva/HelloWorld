@@ -6,5 +6,12 @@ public class Hello
        {
            System.out.println("Hello");
        }
+          for(int i=0 ; i< 6 ; i++)
+          {
+               for(int j=0;j<j-i;j++)
+                    {
+   System.out.println("*");
+                    }
+          }
    }
 }
